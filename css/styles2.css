@@ -1,0 +1,78 @@
+.container{
+
+    margin-top: 5px;
+
+}
+
+h3{
+    background: #f9d10c;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid black;
+  text-align: center;
+  box-shadow: 5px 5px 2px #93968f; 
+}
+
+img{
+    height: 68%;
+    width: 90%;
+    text-align: center;
+    margin-left: 20%;
+    border: 2px solid black;
+}
+#perfil{
+    text-align: center;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+#fecha{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+#campodeinfo{
+    border: 2px solid #f9d10c;
+    padding: 5px;
+}
+
+#agregarcosas{
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-left:12%;
+}
+
+label{
+    margin-top: 4px;
+    margin-bottom: -10px;
+    
+}
+
+#contenido{
+    padding: 1rem;
+border: solid teal;
+margin-top: -30px;
+
+}
+#tablacool{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    color:black;
+    font-weight: normal;
+    font-size: 25px;
+    font-family: Arial;
+    margin-top: 15px;
+}
+#nombrex{
+    text-align: center;
+}  
+
+#botonnegro{
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-left:11%;
+}
